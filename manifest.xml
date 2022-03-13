@@ -2,5 +2,6 @@
 <manifest>
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
+  <project name="codemirror.git" path="codemirror" />
   <project name="proxy.git" path="proxy" />
 </manifest>
