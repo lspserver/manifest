@@ -6,5 +6,5 @@
   <project name="monaco.git" path="monaco" />
   <project name="proxy.git" path="proxy" />
   <project name="servers.git" path="servers" />
-  <project name="simplehtml.git" path="simplehtml" />
+  <project name="simpleclient.git" path="simpleclient" />
 </manifest>
