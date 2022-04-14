@@ -5,6 +5,7 @@
   <project name="codemirror.git" path="codemirror" />
   <project name="monaco.git" path="monaco" />
   <project name="proxy.git" path="proxy" />
+  <project name="proxy-go.git" path="proxy-go" />
   <project name="servers.git" path="servers" />
   <project name="simpleclient.git" path="simpleclient" />
 </manifest>
